@@ -1,7 +1,7 @@
 
 ### Hi, this is Xiaoyun
 
-[![xiaoyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoyun)](https://github.com/xiaoyun/github-readme-stats)
+[![xiaoyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoyun6665)](https://github.com/xiaoyun6665/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyun6665)
 
