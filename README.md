@@ -1,6 +1,8 @@
 
 ### Hi, this is Xiaoyun
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Xiaoyun+'+s+github+! )
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=xiaoyun6665)
 
 
 ![xiaoyun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xiaoyun6665)
